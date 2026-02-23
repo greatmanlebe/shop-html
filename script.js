@@ -13,7 +13,7 @@ const products = [
         name: 'Luxury Gold Watch',
         price: 499.99,
         image: 'https://images.unsplash.com/photo-1523170335258-f5ed11844a49?w=400',
-        category: 'accessories',
+        category: 'tel',
         description: 'Swiss movement, sapphire crystal glass, and water resistance up to 100m.'
     },
     {
